@@ -30,21 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python tests.Python tests in test_movie_storage.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.istorage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.movie_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.movie_app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.storage_csv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_movie_storage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in test_movie_storage.py.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.istorage.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.movie_api.executor": "Run",
+    "Python.movie_app.executor": "Run",
+    "Python.storage_csv.executor": "Run",
+    "Python.test_movie_storage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
